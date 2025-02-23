@@ -1,5 +1,6 @@
 <div>
-<h1><a href="https://git.io/typing-svg"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg4MGZpY3RneXA4c2tpc2prNW5pc2Y3dThldGs3NXMxdWR6aWtkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="matrix" width="200"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg4MGZpY3RneXA4c2tpc2prNW5pc2Y3dThldGs3NXMxdWR6aWtkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="matrix" width="200"/>
+<h1><a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=30&duration=3000&pause=500&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=340&height=30&lines=Hey+There!;My+name+is+Gafar!;I'm+Frontend+developer!;%3C+How+i+usually+work+%3A)" alt="Typing SVG"/></a>
 </h1>
 </div>
