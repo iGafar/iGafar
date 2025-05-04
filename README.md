@@ -54,20 +54,6 @@
 
 <br/>
 
-<h2><samp>&gt; Stats:</samp></h2>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=iGafar&layout=compact&langs_count=8&theme=highcontrast)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=iGafar&theme=dark&hide_border=false)<br/>
-
-
-  <img src="https://raw.githubusercontent.com/velenyx/velenyx/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
-</div>
-
-<br/>
-
 <h2><samp>&gt; Contact info:</samp></h2>
 
 <p>
