@@ -1,10 +1,6 @@
-<div>
 <h1><a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=30&duration=3000&pause=500&color=00FFFF&background=FFFFFF00&center=false&vCenter=true&width=340&height=30&lines=Hey+There!;My+name+is+Gafar!;I'm+a+Frontend+developer!" alt="Typing SVG"/></a>
 </h1>
-</div>
-
-<br>
 
 <h2><samp>&gt; Tech stach:</samp></h2>
 
