@@ -2,12 +2,12 @@
 
 # 👋 Welcome to My Digital Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+There!+I'm+Gafar+%F0%9F%91%8B;Frontend+Developer+%26+Problem+Solver;Building+Amazing+Digital+Experiences" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=115&lines=Hey+There!+I'm+Gafar+%F0%9F%91%8B;Frontend+Developer+%26+Problem+Solver;Building+Amazing+Digital+Experiences" alt="Typing SVG"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=for-the-badge)](https://github.com/yourusername)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?color=00D9FF&style=for-the-badge)](https://github.com/yourusername)
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=iGafar&color=00D9FF&style=for-the-badge)](https://github.com/iGafar)
+[![GitHub followers](https://img.shields.io/github/followers/iGafar?color=00D9FF&style=for-the-badge)](https://github.com/iGafar) -->
 
 </div>
 
@@ -37,9 +37,9 @@ const gafar = {
 
 ### 🌱 Currently Learning
 - Advanced React Patterns
-- Web3 & Blockchain Development
+- Mobile Development
 - System Design & Architecture
-- DevOps & Cloud Technologies
+- DevOps
 
 ---
 
@@ -104,53 +104,46 @@ const gafar = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iGafar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iGafar&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iGafar&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iGafar&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</div> -->
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iGafar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
-## 💼 Featured Projects
+<!-- ## 💼 Featured Projects
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight)](https://github.com/yourusername/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight)](https://github.com/yourusername/project2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=iGafar&repo=scan-react&theme=tokyonight)](https://github.com/iGafar/scan-react)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=code-master-team&repo=checklify-native&theme=tokyonight)](https://github.com/iGafar/project2)
 
 </div>
 
----
+--- -->
 
-## 📈 Coding Activity
+<!-- ## 📈 Coding Activity -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
----
+<!-- --- -->
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -165,23 +158,23 @@ const gafar = {
   <a href="mailto:gafar.isaev.2000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <!-- <a href="https://linkedin.com/in/iGafar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/iGafar">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+  </a> -->
 </p>
 
-### ☕ Support My Work
+<!-- ### ☕ Support My Work
 
 <p>
-  <a href="https://www.buymeacoffee.com/yourusername">
+  <a href="https://www.buymeacoffee.com/iGafar">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </p>
 
-</div>
+</div> -->
 
 ---
 
@@ -191,11 +184,6 @@ const gafar = {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🎵 Currently Vibing To
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/yourusername)
-
----
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
